@@ -111,11 +111,11 @@
 - 接口源：
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/zwdiqi/tv/master/output/user_result.m3u
+https://ghp.ci/raw.githubusercontent.com/taoyihu/tv/master/output/user_result.m3u
 ```
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/zwdiqi/tv/master/output/user_result.txt
+https://ghp.ci/raw.githubusercontent.com/taoyihu/tv/master/output/user_result.txt
 ```
 
 ```bash
